@@ -34,12 +34,12 @@ h1 {
 }
 div#left{
     float:left;
-    width:250px;
+    width:260px;
     min-height: 200px;
     background-color: #a2998b;
 }
 div#right{
-    margin-left: 160px;
+    margin-left: 150px;
     min-height: 200px;
     background-color:#990000;
 }
