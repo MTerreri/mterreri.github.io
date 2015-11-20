@@ -34,17 +34,18 @@ h1 {
 }
 div#left{
     float:left;
-    width:200px;
+    width:230px;
     min-height: 200px;
     background-color: #a2998b;
 }
 div#right{
-    margin-left: 210px;
+    margin-left: 180px;
     min-height: 200px;
     background-color:#990000;
 }
 p {
-    font-size: 1.0em;
+    font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #000;
 }
