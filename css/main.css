@@ -24,12 +24,11 @@ h1 {
     font-size: 3em;
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
-    margin-top: 1em;
+    margin-top: .3em;
 }
 h2 {
     text-align: center;
     padding: 2px;
-    margin-top: 2em;
 }
 #header {
     background-color:#990000;
@@ -49,7 +48,7 @@ div#right{
     margin-left: 340px;
     min-height: 220px;
     background-color:#990000;
-    padding-top: 2em;
+    padding-top: .5em;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
