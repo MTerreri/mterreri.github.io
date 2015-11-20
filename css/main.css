@@ -37,12 +37,13 @@ div#left{
     width:260px;
     min-height: 200px;
     background-color: #a2998b;
+    padding: 3px;
 }
 div#right{
     margin-left: 150px;
     min-height: 200px;
     background-color:#990000;
-     padding: 3px;
+    padding: 3px;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
