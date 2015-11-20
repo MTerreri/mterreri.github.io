@@ -32,6 +32,17 @@ h1 {
     text-align:left;
     padding:5px;
 }
+div#left{
+    float:left;
+    width:200px;
+    min-height: 400px;
+    background-color: magenta;
+}
+div#right{
+    margin-left: 210px;
+    min-height: 400px;
+    background-color: yellow;
+}
 p {
     font-size: 1.0em;
     line-height: 1.4em;
