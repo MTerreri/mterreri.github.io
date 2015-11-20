@@ -35,15 +35,15 @@ h1 {
 div#left{
     float:left;
     width:260px;
-    min-height: 200px;
+    min-height: 220px;
     background-color: #a2998b;
     padding: 3px;
 }
 div#right{
-    margin-left: 270px;
-    min-height: 200px;
+    margin-left: 3000px;
+    min-height: 220px;
     background-color:#990000;
-    padding: 3px;
+    padding: 4px;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
