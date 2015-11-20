@@ -36,11 +36,10 @@ h2 {
     color:white;
     text-align:left;
     padding:5px;
-    margin-bottom: 2em;
 }
 div#left{
     float:left;
-    width:280px;
+    width:3000px;
     min-height: 220px;
     background-color: #a2998b;
     padding: 0px;
