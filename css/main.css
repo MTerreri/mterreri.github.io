@@ -34,13 +34,13 @@ h1 {
 }
 div#left{
     float:left;
-    width:240px;
+    width:260px;
     min-height: 200px;
     background-color: #a2998b;
     padding: 3px;
 }
 div#right{
-    margin-left: 240px;
+    margin-left: 270px;
     min-height: 200px;
     background-color:#990000;
     padding: 3px;
