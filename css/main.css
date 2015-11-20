@@ -38,6 +38,7 @@ p {
     color: #000;
 }
 #section {
+    background-color:#990000;
     width:350px;
     float:left;
     padding:10px; 
