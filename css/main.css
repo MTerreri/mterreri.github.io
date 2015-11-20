@@ -43,14 +43,14 @@ div#left{
     min-height: 220px;
     background-color: #a2998b;
     padding: 0px;
-    margin-top: 3em;
+    margin-top: 2em;
 }
 div#right{
     margin-left: 340px;
     min-height: 220px;
     background-color:#990000;
     padding: 0px;
-    margin-top: 3em;
+    margin-top: 2em;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
