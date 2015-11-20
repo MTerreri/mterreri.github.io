@@ -35,13 +35,13 @@ h1 {
 div#left{
     float:left;
     width:200px;
-    min-height: 400px;
-    background-color: magenta;
+    min-height: 200px;
+    background-color: #a2998b;
 }
 div#right{
     margin-left: 210px;
-    min-height: 400px;
-    background-color: yellow;
+    min-height: 200px;
+    background-color:#990000;
 }
 p {
     font-size: 1.0em;
