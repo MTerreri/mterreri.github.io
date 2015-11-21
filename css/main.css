@@ -49,6 +49,7 @@ div#right{
     margin-left: 340px;
     min-height: 220px;
     background-color:#990000;
+    opacity: 0.4;
     padding-top: .3em;
     margin-top: 2em;
 }
