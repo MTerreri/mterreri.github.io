@@ -32,10 +32,7 @@ h2 {
     padding: 2px;
 }
 #header {
-    background: radial-gradient(circle, black, white);
-    background-repeat: no-repeat;
-    background-position: top center;
-    color:white;
+    background-color: #a2998b;
     text-align:left;
     padding:5px;
 }
