@@ -31,7 +31,7 @@ h2 {
     text-align: center;
     padding: 2px;
 }
-header {
+.header {
     background:#2C2E31;
     border-bottom:#000000 2px solid;
     width: 100%;
