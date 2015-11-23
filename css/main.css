@@ -32,7 +32,9 @@ h2 {
     padding: 2px;
 }
 #header {
-    background-color:#990000;
+    background-image:url(https://drive.google.com/file/d/0B4edxBmWZV_TeGhzaFZjdThYZlE/view?usp=sharing);
+    background-repeat: no-repeat;
+    background-position: top center;
     color:white;
     text-align:left;
     padding:5px;
