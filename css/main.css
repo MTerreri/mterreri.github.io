@@ -32,7 +32,7 @@ h2 {
     padding: 2px;
 }
 #header {
-    background-image:url(http://www.spirit1059.com/pics/Feeds/Articles/2015611/118317/Beach.jpg);
+    background: radial-gradient(circle, black, white);
     background-repeat: no-repeat;
     background-position: top center;
     color:white;
