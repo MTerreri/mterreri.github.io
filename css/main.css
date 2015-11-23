@@ -53,11 +53,6 @@ header-txt{
     font-size:0.8em;
     display:block}@media (min-width: 768px){
 }
-.header-action {
-    font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
-    letter-spacing:0.5px;
-    margin-top:15px
-}
 .header-tag{
     background-color:#990000;
     letter-spacing:normal;
