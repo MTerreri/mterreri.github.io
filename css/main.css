@@ -54,6 +54,14 @@ h2 {
     display:inline-block;
     padding:0.25em 0.55em
 }
+header-txt{
+    margin:0 -15px 0 -15px;
+    padding:3em 15px;
+    color:#fff;
+    background-color:#333;
+    font-size:0.8em;
+    display:block}@media (min-width: 768px){
+}
 .header-action {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
     letter-spacing:0.5px;
