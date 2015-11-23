@@ -67,7 +67,7 @@ header-txt{
     border-radius:1px;
     font-size:1.9em;
     display:inline-block;
-    padding:0em 0em
+    padding:.25em .55em
 }
 IMG.displayed {
     display: block;
