@@ -107,7 +107,8 @@ td {
     padding: 0px;
     margin-left: 0;
     margin-right: 0;
-    width: 230px;
+    white-space: nowrap;
+    width: 1px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
