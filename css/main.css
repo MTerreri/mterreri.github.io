@@ -81,8 +81,7 @@ div#right{
     margin-top: 2em;
 }
 div#table-nav{
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: 70px;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
