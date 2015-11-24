@@ -97,6 +97,8 @@ table {
     border-spacing: 0px;
     margin-left: 70px;
 }
+td {
+    padding: 0px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
