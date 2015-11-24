@@ -98,15 +98,9 @@ p {
     float:left;
     padding:10px;
 table {
-    margin-left: auto;
-    margin-right: auto;
-    border-spacing: 1px;
-    table-layout: fixed;
+    width: 100%;
 }
 td {
-    padding: 0px;
-    margin-left: 0;
-    margin-right: 0;
     white-space: nowrap;
     width: 1px;
 }
