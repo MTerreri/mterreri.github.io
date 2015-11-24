@@ -94,8 +94,8 @@ p {
     float:left;
     padding:10px;
 table {
-    border-spacing: 0px;
-    margin-left: 70px;
+    margin-left: auto;
+    margin-right: auto;
     border-spacing: 1px;
 }
 td {
