@@ -54,6 +54,7 @@ h2 {
     border-radius:1px;
     font-size:1.9em;
     display:inline-block;
+    padding: 4px;
 }
 .header-img{
     width:100%;
