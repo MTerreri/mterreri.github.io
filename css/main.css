@@ -96,6 +96,7 @@ p {
 table {
     border-spacing: 0px;
     margin-left: 70px;
+    border-spacing: 10px;
 }
 td {
     padding: 0px;
