@@ -65,7 +65,7 @@ IMG.displayed {
     margin-right: auto }
 div#left{
     float:left;
-    width:300px;
+    width:400px;
     min-height: 220px;
     background-color: #bfb778;
     padding-top: .3em;
@@ -73,7 +73,7 @@ div#left{
     margin-left: 70px;
 }
 div#right{
-    margin-left: 500px;
+    margin-left: 600px;
     min-height: 220px;
     background-color:#bfb778;
     opacity: 0.9;
