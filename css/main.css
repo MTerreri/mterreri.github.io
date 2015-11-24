@@ -68,11 +68,12 @@ div#left{
     width:300px;
     min-height: 220px;
     background-color: #a2998b;
-    padding: 0px;
+    padding-top: .3em;
+    margin-top: 2em;
     margin-left: 70px;
 }
 div#right{
-    margin-left: 400px;
+    margin-left: 420px;
     min-height: 220px;
     background-color:#990000;
     opacity: 0.9;
