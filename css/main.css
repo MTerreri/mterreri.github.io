@@ -95,11 +95,12 @@ div#table-nav{
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.3em;
+    font-size: .7em;
     line-height: 1.4em;
     color: #000;
     padding: 0px;
-    margin: 0cm 0em 0cm 0cm;
+    margin: auto;
+    width: 60%;
 }
 #section {
     background-color:#990000;
