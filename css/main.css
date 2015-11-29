@@ -77,7 +77,7 @@ IMG.displayed {
 div#left{
     float:left;
     width:400px;
-    min-height: 220px;
+    min-height: 210px;
     background-color: #bfb778;
     padding-top: .3em;
     margin-top: 2em;
@@ -85,8 +85,8 @@ div#left{
 }
 div#right{
     margin-left: 550px;
-    width:745px;
-    min-height: 220px;
+    width:730px;
+    min-height: 210px;
     background-color:#bfb778;
     padding-top: .3em;
     padding-left: 2em;
