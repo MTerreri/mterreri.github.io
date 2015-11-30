@@ -63,7 +63,7 @@ h3 {
     width: 187px;
     font-size:1.9em;
     display:inline-block;
-    margin:0 0 .563em 0;
+    margin:0 0 0 .563em;
     text-align: left;
 }
 .header-img{
