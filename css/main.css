@@ -94,6 +94,8 @@ div#right{
 }
 div#table-nav{
     margin-left: 3.3em;
+    border-collapse: separate;
+    border-spacing: 10px;
 }
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
