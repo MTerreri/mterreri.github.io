@@ -76,7 +76,7 @@ IMG.displayed {
     margin-right: auto }
 div#left{
     float:left;
-    width:380px;
+    width:30%;
     min-height: 210px;
     background-color: #bfb778;
     padding-top: .3em;
