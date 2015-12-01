@@ -94,6 +94,7 @@ div#right{
 }
 div#table-nav{
     margin-left: 6.6em;
+     margin-right: 6.6em;
     border-collapse: separate;
     border-spacing: 5px;
 }
