@@ -130,14 +130,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.videoWrapper {
-	position: relative;
-	height: 0;
-}
-.videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
