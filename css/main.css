@@ -73,7 +73,16 @@ IMG.displayed {
     display: block;
     margin-top: 1px;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+  background-color: rgba(255,255,255,0.5);
+}
 div#left{
     float:left;
     width:37%;
