@@ -134,7 +134,7 @@ table {
     width: 100%;
 }
 td {
-    white-space: normal;
+    white-space: nowrap;
     width: 1px;
     padding:0 0 0 3em;
 }
