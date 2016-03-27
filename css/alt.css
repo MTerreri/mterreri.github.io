@@ -134,9 +134,9 @@ table {
     width: 100%;
 }
 td {
-    white-space: nowrap;
+    white-space: normal;
     width: 1px;
-    padding:0 0 0 2em;
+    padding:0 0 0 3em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
