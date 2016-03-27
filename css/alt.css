@@ -7,7 +7,7 @@
 div#hmenu { 
    margin: 0; 
    padding: .3em 0 .3em 0; 
-   background: #ddeebb; 
+   background: #666666; 
    width: 100%; 
    text-align: center; 
 } 
@@ -39,7 +39,7 @@ div#hmenu ul a:visited{
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
-   color: #227755; 
+   color: #31698A; 
 } 
 
 div#hmenu ul a:active{ 
@@ -48,7 +48,7 @@ div#hmenu ul a:active{
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
-   color: #227755; 
+   color: #31698A; 
 } 
 
 div#hmenu ul a:hover{ 
@@ -58,5 +58,5 @@ div#hmenu ul a:hover{
    font-weight: bold; 
    font-size: medium; 
    color: #f6f0cc; 
-   background-color: #227755; 
+   background-color: #31698A; 
 }
