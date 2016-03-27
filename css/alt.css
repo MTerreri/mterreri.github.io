@@ -136,6 +136,7 @@ table {
 td {
     white-space: nowrap;
     width: 1px;
+    padding:0 0 0 5em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
