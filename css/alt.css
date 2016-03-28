@@ -185,7 +185,7 @@ div#hmenu ul a:link{
    font-weight: bold; 
    font-size: medium; 
    color: #ffffff;
-   font-family: Tahoma, Geneva, sans-serif;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
 } 
 
 div#hmenu ul a:visited{ 
@@ -195,7 +195,7 @@ div#hmenu ul a:visited{
    font-weight: bold; 
    font-size: medium; 
    color: #ffffff;
-   font-family: Tahoma, Geneva, sans-serif;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
 } 
 
 div#hmenu ul a:active{ 
@@ -205,7 +205,7 @@ div#hmenu ul a:active{
    font-weight: bold; 
    font-size: medium; 
    color: #31698A;
-   font-family: Tahoma, Geneva, sans-serif;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
 } 
 
 div#hmenu ul a:hover{ 
@@ -216,5 +216,5 @@ div#hmenu ul a:hover{
    font-size: medium; 
    color: #f6f0cc; 
    background-color: #31698A;
-   font-family: Tahoma, Geneva, sans-serif;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
