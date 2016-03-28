@@ -184,7 +184,8 @@ div#hmenu ul a:link{
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
-   color: #ffffff; 
+   color: #ffffff;
+   font-family: Tahoma, Geneva, sans-serif;
 } 
 
 div#hmenu ul a:visited{ 
@@ -193,7 +194,8 @@ div#hmenu ul a:visited{
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
-   color: #ffffff; 
+   color: #ffffff;
+   font-family: Tahoma, Geneva, sans-serif;
 } 
 
 div#hmenu ul a:active{ 
@@ -202,7 +204,8 @@ div#hmenu ul a:active{
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
-   color: #31698A; 
+   color: #31698A;
+   font-family: Tahoma, Geneva, sans-serif;
 } 
 
 div#hmenu ul a:hover{ 
@@ -212,5 +215,6 @@ div#hmenu ul a:hover{
    font-weight: bold; 
    font-size: medium; 
    color: #f6f0cc; 
-   background-color: #31698A; 
+   background-color: #31698A;
+   font-family: Tahoma, Geneva, sans-serif;
 }
