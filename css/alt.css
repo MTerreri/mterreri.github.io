@@ -84,8 +84,8 @@ IMG.displayed {
 }
 div#left{
     float:left;
-    width:37%;
-    min-height: 402px;
+    width:50%;
+    min-height: 210px;
     background-color: #bfb778;
     padding-top: .3em;
     margin-top: 2em;
@@ -93,11 +93,11 @@ div#left{
 }
 div#right{
     margin-left: 47%;
-    width:38%;
+    width:50%;
     min-height: 210px;
     background-color:#bfb778;
     padding-top: .3em;
-    padding-left: 2em;
+    padding-left: 0;
     margin-top: 2em;
 }
 div#table-nav{
