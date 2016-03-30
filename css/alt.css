@@ -200,7 +200,6 @@ div#hmenu {
    background: #666666; 
    width: 100%; 
    text-align: left;
-   margin-left: 8.6em;
 } 
 
 div#hmenu ul { 
@@ -223,6 +222,7 @@ div#hmenu ul a:link{
    font-size: medium; 
    color: #ffffff;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
+   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:visited{ 
