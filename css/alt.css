@@ -93,13 +93,12 @@ div#left{
 }
 div#right{
     margin-left: 30%;
-    width:70%;
+    width:60%;
     min-height: 210px;
     background-color:#9ACD32;
     padding-top: .3em;
     padding-left: 0;
     margin-top: 2em;
-    margin-right: 5.6em;
 }
 div#table-nav{
     margin-left: 5.6em;
