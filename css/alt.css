@@ -206,14 +206,13 @@ div#hmenu ul {
    list-style: none; 
    margin: 0; 
    padding: 0;
-   width: 60%;
+   margin-left: 8.6em;
 } 
 
 div#hmenu ul li { 
    margin: 0; 
    padding: 0; 
    display: inline;
-   width: 60%;
 } 
 
 div#hmenu ul a:link{ 
@@ -224,7 +223,6 @@ div#hmenu ul a:link{
    font-size: medium; 
    color: #ffffff;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
-   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:visited{ 
@@ -235,7 +233,6 @@ div#hmenu ul a:visited{
    font-size: medium; 
    color: #ffffff;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
-   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:active{ 
@@ -246,7 +243,6 @@ div#hmenu ul a:active{
    font-size: medium; 
    color: #31698A;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
-   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:hover{ 
@@ -258,5 +254,4 @@ div#hmenu ul a:hover{
    color: #f6f0cc; 
    background-color: #31698A;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
-   margin-left: 8.6em;
 }
