@@ -199,7 +199,8 @@ div#hmenu {
    padding: 1em 0em 1em 0em; 
    background: #666666; 
    width: 100%; 
-   text-align: left; 
+   text-align: left;
+   margin-left: 8.6em;
 } 
 
 div#hmenu ul { 
