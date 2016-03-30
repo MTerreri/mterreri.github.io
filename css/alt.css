@@ -216,7 +216,7 @@ div#hmenu ul li {
 
 div#hmenu ul a:link{ 
    margin: 0; 
-   padding: .3em 1em .3em 1em; 
+   padding: .3em .3em .3em .3em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
@@ -227,31 +227,34 @@ div#hmenu ul a:link{
 
 div#hmenu ul a:visited{ 
    margin: 0; 
-   padding: 1em 1em 1em 1em; 
+   padding: 1em .3em 1em .3em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
    color: #ffffff;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
+   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:active{ 
    margin: 0; 
-   padding: 1em 1em 1em 1em; 
+   padding: 1em .3em 1em .3em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
    color: #31698A;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
+   margin-left: 8.6em;
 } 
 
 div#hmenu ul a:hover{ 
    margin: 0; 
-   padding: 1em 1em 1em 1em; 
+   padding: 1em .3em 1em .3em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
    color: #f6f0cc; 
    background-color: #31698A;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
+   margin-left: 8.6em;
 }
