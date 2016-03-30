@@ -217,7 +217,7 @@ div#hmenu ul li {
 
 div#hmenu ul a:link{ 
    margin: 0; 
-   padding: .3em .5em .3em .5em; 
+   padding: .3em .8em .3em .8em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
@@ -227,7 +227,7 @@ div#hmenu ul a:link{
 
 div#hmenu ul a:visited{ 
    margin: 0; 
-   padding: 1em .5em 1em .5em; 
+   padding: 1em .8em 1em .8em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
@@ -237,7 +237,7 @@ div#hmenu ul a:visited{
 
 div#hmenu ul a:active{ 
    margin: 0; 
-   padding: 1em .5em 1em .5em; 
+   padding: 1em .8em 1em .8em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
@@ -247,7 +247,7 @@ div#hmenu ul a:active{
 
 div#hmenu ul a:hover{ 
    margin: 0; 
-   padding: 1em .5em 1em .5em; 
+   padding: 1em .8em 1em .8em; 
    text-decoration: none; 
    font-weight: bold; 
    font-size: medium; 
