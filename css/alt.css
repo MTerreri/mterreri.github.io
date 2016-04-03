@@ -1,6 +1,7 @@
 body {
     margin: 0px auto;
     width: 100%;
+    overflow:hidden
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
