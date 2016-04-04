@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 100%;
+    width: auto;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
@@ -84,7 +84,7 @@ div#hmenu {
    margin: 0; 
    padding: 1em 0em 1em .5em; 
    background: #666666; 
-   width: 50%; 
+   width: 100%; 
    text-align: left;
 } 
 
