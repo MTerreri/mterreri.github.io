@@ -113,7 +113,7 @@ table {
 td {
     white-space: nowrap;
     width: 01px;
-    padding:0 0 0 3em;
+    padding:0 0 0 0em;
 }
 
 footer {
