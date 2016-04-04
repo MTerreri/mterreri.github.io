@@ -3,6 +3,11 @@ body {
     width: 100%;
 }
 
+div#center {
+width: 50%;
+margin: 0px auto 0px auto
+}
+
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     background-repeat: no-repeat;
