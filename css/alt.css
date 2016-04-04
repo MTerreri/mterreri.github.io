@@ -56,12 +56,12 @@ p {
 }
 
 table {
-    width: 90%;
+    width: 100%;
     padding:0 0 0 0;
 }
 td {
     white-space: nowrap;
-    width: 01x;
+    width: 01px;
     padding:0 0 0 3em;
 }
 
