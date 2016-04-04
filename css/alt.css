@@ -43,6 +43,7 @@ div#banner{
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     background-repeat:no-repeat;
     width:100%;
+    padding: 1em; 0; 1em; 0
    }
    
 p {
