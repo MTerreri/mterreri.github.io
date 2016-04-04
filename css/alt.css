@@ -42,7 +42,7 @@ div#banner{
     float:left;
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     background-repeat:no-repeat;
-    width:100%;
+    max-width:90%;
     margin: auto;
    }
    
