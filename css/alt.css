@@ -10,10 +10,9 @@ margin: 0px auto 0px auto
 
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
-    margin: 0 0 0 7em;
+    margin: 3em 0 3em 7em;
     background-repeat: no-repeat;
     height:315px;
-    
 }
 .header-lead {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
