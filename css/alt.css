@@ -88,7 +88,7 @@ h3 {
 }
 
 div#banner{
-    float:left;
+    float:center;
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     background-repeat:no-repeat;
     max-width:95%;
