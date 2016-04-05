@@ -16,6 +16,7 @@ margin: 0px auto 0px auto
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     margin: 1em 0 2em 5.5em;
+    padding: 1em 0 1em 0;
     background-repeat: no-repeat;
     height:315px;
 }
