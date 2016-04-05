@@ -107,7 +107,8 @@ p {
 table {
     width: 60%;
     padding:0 0 0 0;
-    margin: 0px auto 0px auto
+    margin: 0px auto 0px auto;
+    border: 1px solid black;
 }
 table.table1 {
     width: 100%;
