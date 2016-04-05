@@ -32,7 +32,10 @@ margin: 0px auto 0px auto
     line-height:1.3;
     height: 2.0em;
     width: 187px;
-    font-size:1.9em;
+    font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #000000;
+    letter-spacing:0.02em;
+    font-size: 1.9em;
     display:inline-block;
     margin:0 0 0 .5em;
     text-align: left;
