@@ -10,7 +10,7 @@ margin: 0px auto 0px auto
 
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
-    margin: 1em 0 2em 6em;
+    margin: 1em 0 2em 5.5em;
     background-repeat: no-repeat;
     height:315px;
 }
@@ -145,7 +145,7 @@ div#hmenu ul {
    list-style: none; 
    margin: 0; 
    padding: 0;
-   margin-left: 8.6em;
+   margin-left: 5.5em;
 } 
 
 div#hmenu ul li { 
