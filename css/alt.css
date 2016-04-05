@@ -8,6 +8,11 @@ width: 50%;
 margin: 0px auto 0px auto
 }
 
+div#container {
+width: 50%;
+margin: 0px auto 0px auto
+}
+
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     margin: 1em 0 2em 5.5em;
