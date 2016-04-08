@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="Michael Terreri Project Dev" content="Personal website and resume of Michael Terreri." />
+		<title>Michael Terreri About Page</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/alt.css">
+		<link rel="shortcut icon" type="image/png" href="http://theofficialnerdbird.blogspot.com/favicon.ico">
+	</head>
+	<table class="table1">
+ 		<tr>
+ 	    	<td><h1>Michael Terreri, MPA</h1></td>
+ 		<td><a href="https://www.linkedin.com/in/terreri"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width= 30em></a></td>
+ 		</tr>
+ 	</table>
+<div id="hmenu">
+<ul> 
+  <li><a href="https://www.linkedin.com/in/terreri">EXPERIENCE</a></li> 
+  <li><a href="https://docs.google.com/forms/d/1t0h2rR__t_Mw5U75KT7bSFysj2L_RVFpdTSiaI1mwjY/viewform">FEEDBACK</a></li> 
+  <li><a href="http://www.oakconsultinggroup.com/">CONSULTING</a></li>
+</ul>   
+</div> 
+Michael Terreri, MPA
+Michael combines a background in public administration with renewable energy and resource conservation subject matter knowledge as a member of OAK Consulting Group's grants and programs department.  He creates opportunities to advance organizations' work by leveraging grant funding and other public sector resources for clients.  Michael has a Master in Public Administration from the State University of New York and a work history which includes two federal agencies, a national aerospace museum, municipal government, and university extension services.
+	<br>
+	<footer>
+	<br>
+	<p style="font-size:80%" align="center">&#169 2016 Michael Terreri. All Rights Reserved<br>
+	<a href="mailto:mjterrer@ncsu.edu"style="color: #CC0000">email</a>
+	</p>
+	</footer>
+	</body>
+</html>
