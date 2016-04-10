@@ -19,6 +19,7 @@ margin: 0px auto 0px auto
     padding: 3em 0 0 0;
     background-repeat: no-repeat;
     height:315px;
+    
 }
 .header-lead {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
@@ -109,6 +110,8 @@ div#banner{
    
 p {
     font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
+    background-color:#000000;
+    opacity: 0.35;
     font-size: 1.1em;
     line-height: 1.4em;
     color: #000;
