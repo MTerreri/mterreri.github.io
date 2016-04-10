@@ -13,6 +13,13 @@ width: 50%;
 margin: 0px auto 0px auto
 }
 
+.container2 {
+width: 50%;
+margin: 0px auto 0px auto
+background-color:#000000;
+opacity: 0.85;
+}
+
 .header {
     background-image: url("http://www.mattabelevideography.com/images/img_5418.jpg");
     margin: 1em 0 2em 5.5em;
@@ -113,18 +120,6 @@ p {
     font-size: 1.1em;
     line-height: 1.4em;
     color: #000;
-    padding: 0px;
-    margin: 1em 0 2em 1em;
-    width: 85%;
-}
-
-p2 {
-    font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.1em;
-    line-height: 1.4em;
-    color: #000;
-    background-color:#000000;
-    opacity: 0.85;
     padding: 0px;
     margin: 1em 0 2em 1em;
     width: 85%;
