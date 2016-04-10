@@ -14,14 +14,15 @@ margin: 0px auto 0px auto
 }
 
 .container2 {
-width: 100%;
-font-family:'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
+width: 78%;
+font-family: 'Calibri', 'Helvetica', 'Arial', 'Sans-Serif';
 font-size: 1.1em;
 line-height: 1.4em;
-color: #000000;
-background-color:#000000;
-margin: 0px 1em 0px 5.5em;
+color: #ffffff;
+background-color: #211B1B;
+margin: 0 0 0 5.5em;
 opacity: 0.85;
+padding: 1.4em;
 }
 
 .header {
