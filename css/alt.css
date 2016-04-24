@@ -148,7 +148,7 @@ table.table1 {
 td {
     white-space: nowrap;
     width: 00px;
-    padding:0 0 0 0em;
+    padding:0 .25em 0 .25em;
 }
 
 footer {
