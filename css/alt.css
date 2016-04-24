@@ -144,12 +144,12 @@ table {
     width: 60%;
     padding:0 0 0 0;
     margin: 0px auto 0px auto;
-    border: 1px solid black;
 }
 table.table1 {
-    width: 100%;
-    padding:0 7em 0 5.5em;
-    margin: 0px 0 0px 0;
+    width: 60%;
+    padding:0 0 0 0;
+    margin: 0px auto 0px auto;
+    border: 1px solid black;
 }
 td {
     white-space: nowrap;
